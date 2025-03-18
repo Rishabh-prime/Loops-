@@ -4,19 +4,19 @@ Welcome to the Loops repository! 🚀 This repo contains fundamental examples of
 
 🔄 Topics Covered
 
-For Loop
+🔁For Loop
 
-While Loop
+🔁While Loop
 
-Do While Loop
+🔁Do While Loop
 
-For...of Loop (for arrays)
+🔁For...of Loop (for arrays)
 
-For...in Loop (for objects)
+🔁For...in Loop (for objects)
 
-forEach Loop
+🔁forEach Loop
 
-Map Loop
+🔁Map Loop
 
 💡 Why Learn Loops?
 
